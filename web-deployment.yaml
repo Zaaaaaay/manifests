@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: apache-web
-          image: i620832535900.dkr.ecr.ap-northeast-2.amazonaws.com/web:web-20250708075714
+          image: 620832535900.dkr.ecr.ap-northeast-2.amazonaws.com/web:web-20250708081031
           ports:
             - containerPort: 80
           resources:
